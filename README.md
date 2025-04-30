@@ -1,4 +1,4 @@
-# ChatBot-OpenAI 🤖
+# ChatBot-OpenAI 
 
 A simple chatbot project using Python and OpenAI's GPT API.
 
